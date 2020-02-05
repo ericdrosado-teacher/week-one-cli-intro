@@ -11,7 +11,7 @@ For this lesson you will first watch a video lecture and from that lesson comple
 
 :notebook: Exercise
 
-In this exercise I would like you to explain how you could make a directory that looks like the following:
+In this exercise I would like you to explain how you could make a directory that looks like the following (Note: `hello.txt` is in the `FolderOne` directory:
 
 [![directory_structure](assets/directory_structure.png)](assets/directory_structure.png)
 
